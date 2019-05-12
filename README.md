@@ -11,7 +11,8 @@
 2. Clone the repository here : `git clone https://github.com/streambinder/spotitube.git`
 3. Set the GOPATH variable to the code folder location, *e.g.* `SET GOPATH=E:\Users\Quentin\Documents\Programmation\Go\spotitube`
 4. Now, there's a bunch of libraries to download. You can copy and paste all of this into your terminal, this should download everything needed (else, copy, paste and execute each line after another) :
-```go get github.com\0xAX\notificator
+```
+go get github.com\0xAX\notificator
 go get github.com\PuerkitoBio\goquery
 go get github.com\agnivade\levenshtein
 go get github.com\bogem\id3v2
