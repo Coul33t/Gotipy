@@ -1,10 +1,10 @@
 ## Prerequisite :
-* Golang (https://golang.org/ ) : Used to compile the code
-* Git 	 (https://git-scm.com/) : Used to retrieve the code from Github
-* GnuWin32 (https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download): Used for the makefile
+* [Golang](https://golang.org/) : Used to compile the code
+* [Git](https://git-scm.com/) : Used to retrieve the code from Github
+* [GnuWin32](https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download): Used for the makefile
 
 ### Optional :
-* CMDer (https://cmder.net/) : better terminal for Windows (includes Git)
+* [CMDer](https://cmder.net/) : better terminal for Windows (includes Git)
 
 ## Step by step tutorial
 1. Use `cd` to go to the desired location for the program, *e.g.* `cd E:\Users\Quentin\Documents\Programmation\Go`
